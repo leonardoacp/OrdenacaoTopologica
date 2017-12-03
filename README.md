@@ -1,14 +1,15 @@
-TRABALHO ORDENAÇÃO TOPOLÓGICA
+#TRABALHO ORDENAÇÃO TOPOLÓGICA
 
-Faculdade: UNIBH
-Curso: Ciência da Computação
-Disciplina: Matemática Computacional (CCP1BN-ESA)
-Professor: Gustavo Alves Fernandes 
+Faculdade: UNIBH__
+Curso: Ciência da Computação__
+Disciplina: Matemática Computacional (CCP1BN-ESA)__
+Professor: Gustavo Alves Fernandes__
 
-Alunos: Leonardo de Almeida Calcagno Peixoto
-        João Vitor Pilati
-        Lucas Gabriel
-        Felipe Zanini
+###### Alunos: 
+Leonardo de Almeida Calcagno Peixoto__
+João Vitor Pilati__
+Lucas Gabriel__
+Felipe Zanini__
        
 
 Projeto desenvolvido em .net core 2.0 demonstrando o algoritmo da Ordenação Topológica;
