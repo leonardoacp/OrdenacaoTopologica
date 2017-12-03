@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{05CD1624-A512-4DE1-AEA6-EC5EBE2EE0CF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ordenacao_topologica/AlgoritmoKahn.cs">
+    <Files>
+      <File FileName="ordenacao_topologica/Program.cs" Line="24" Column="2" />
+      <File FileName="ordenacao_topologica/MatrizAdjacencia.cs" Line="2" Column="31" />
+      <File FileName="ordenacao_topologica/AlgoritmoKahn.cs" Line="9" Column="35" />
+      <File FileName="ordenacao_topologica/Interfaces/IAlgoritmoKahn.cs" Line="4" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ordenacao__topologica PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
